@@ -309,7 +309,7 @@ latest_posts:
       </li>
       <li>
         <span class="contact-label">Phone</span>
-        <a href="tel:+12187915544">218-791-5544</a>
+        <a href="tel:+16124054555">(612) 405-4555</a>
       </li>
     </ul>
   </section>
